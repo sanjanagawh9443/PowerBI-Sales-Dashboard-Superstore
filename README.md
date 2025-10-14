@@ -86,7 +86,7 @@ Sales LY = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Orders'[Order Date]))
 
 ## 🖼️ **Dashboard Preview**
 
-(Add your dashboard screenshot here)
+(![Sales Dashboard]()
 
 ---
 
