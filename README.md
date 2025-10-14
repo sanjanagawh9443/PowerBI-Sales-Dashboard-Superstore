@@ -44,3 +44,5 @@ Export to Sheets
 3. Interactivity
 A Year/Category Slicer is included, allowing users to dynamically filter all visuals on the dashboard by specific years (2014-2017) and product categories.
 
+![Sales Overview Dashboard](Sales Overview Dashboard.png)
+
