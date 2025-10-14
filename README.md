@@ -86,7 +86,7 @@ Sales LY = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Orders'[Order Date]))
 
 ## 🖼️ **Dashboard Preview**
 
-(![Sales Dashboard]()
+(![Sales Dashboard](https://github.com/sanjanagawh9443/PowerBI-Sales-Dashboard-Superstore/blob/main/Sales%20Overview%20Dashboard.png)
 
 ---
 
